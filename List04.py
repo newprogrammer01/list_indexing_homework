@@ -6,7 +6,7 @@ def main(list1):
     Returns:
         list: return answer
     """
-    list1=[1,2,3,5,0,8]
+   
 
     return list1[-1]
-print(main([]))
+print(main([1,2,3,'e']))
