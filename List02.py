@@ -6,4 +6,6 @@ def main(list1):
     Returns:
         list: return answer
     """
-    return
+    list1=[0,2,3,4,5,'k']
+    return list1[0]
+print(main([]))
