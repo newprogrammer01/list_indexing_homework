@@ -6,6 +6,6 @@ def main(list1):
     Returns:
         list: return answer
     """
-    list1=[0,2,3,4,5,"f"]
+    list1=[91,2,3,4,5]
     return list1[0]
 print(main([]))
